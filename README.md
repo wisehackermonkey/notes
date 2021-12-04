@@ -19,6 +19,8 @@ For now, you need to:
 5. Run `yarn && yarn dev` to start the site locally.
 6. Run `yarn export` to generate the published static website in the folder `out`. You can deploy it to anywhere which supports static hosting, for example [Github Pages](https://guides.github.com/features/pages/)
 
+# how to host using github pages & github actions for automation!
+![](assets/2021-12-03-20-50-10.png)
 ## Super Early!
 
 We release Logseq Publish in its early stage to better involve the community in its development. Let's help make it better by:
