@@ -8,11 +8,9 @@
 
 
 ## how i got this repo working
-## eden file
 ### :page-name-order "file"
-### :journal/file-name-format "yyyyMMdd"
-## obsidian side
-### Daily Notes > date format > “MM_DD”
+### :journal/file-name-format "yyyy-MM-dd"
+
 
 
 # links
