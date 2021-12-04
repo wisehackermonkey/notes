@@ -1,2 +1,2 @@
-- [[pacman game]]
+- [[Pacman game]]
 -
