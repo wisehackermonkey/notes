@@ -1,0 +1,2 @@
+- https://bit.ly/3nN4eeY
+- Fun browser scavenger hunt game, made for SRJC hackjam 2021
