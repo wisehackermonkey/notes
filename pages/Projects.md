@@ -1,4 +1,9 @@
-- [[Coding]]
-	- [[Software]]
-	- [[Hardware]]
+- [[Software]]
+	- [[Coding]]
+		- [[Python]]
+		- [[Javascript]]
+		- [[Arduino]]
+	- [[Games]]
+- [[Hardware]]
+	-
 	-
