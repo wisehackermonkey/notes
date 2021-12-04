@@ -1,0 +1,2 @@
+- https://github.com/wisehackermonkey/doc-history
+- copies a cleaned-up version of your previous commands to the clipboard to use in making documentation easier
