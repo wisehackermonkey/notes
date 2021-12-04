@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Coding.md",
+            "file": "pages/logseq tasks.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Coding.md",
+                "file": "pages/logseq tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "634b26e6c1d03f81",
   "lastOpenFiles": [
+    "pages/logseq tasks.md",
     "pages/Coding.md",
     "pages/contents.md",
     "pages/favorites.md"
