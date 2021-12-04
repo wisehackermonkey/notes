@@ -4,9 +4,6 @@
  {:block/name "arduino",
   :block/created-at 1638595866361,
   :block/updated-at 1638595866361}
- {:block/name "art",
-  :block/created-at 1638595866361,
-  :block/updated-at 1638595866361}
  {:block/name "b",
   :block/created-at 1638595866361,
   :block/updated-at 1638595866361}
@@ -34,12 +31,6 @@
  {:block/name "favorites",
   :block/created-at 1638595866361,
   :block/updated-at 1638595866361}
- {:block/name "games",
-  :block/created-at 1638595866361,
-  :block/updated-at 1638595866361}
- {:block/name "hardware",
-  :block/created-at 1638595866361,
-  :block/updated-at 1638595866361}
  {:block/name "in-progress",
   :block/created-at 1638595866361,
   :block/updated-at 1638595866361}
@@ -56,9 +47,6 @@
   :block/created-at 1638595866361,
   :block/updated-at 1638595866361}
  {:block/name "readme",
-  :block/created-at 1638595866361,
-  :block/updated-at 1638595866361}
- {:block/name "software",
   :block/created-at 1638595866361,
   :block/updated-at 1638595866361}
  {:block/name "todo",
