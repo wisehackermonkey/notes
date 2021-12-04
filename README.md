@@ -7,7 +7,8 @@
 ## obsidian side
 ### Daily Notes > date format > “YYYYMMDD” instead of “YYYY_MM_DD” like this tutorial says
 -
-# Obsidian sync with logsec git
+# Obsidian sync with logsec git repo to play nicely with paid 'sync' obsidian feature
+- ![image.png](./assets/image_1638597957358_0.png)
 # links
 ### https://discuss.logseq.com/t/making-obsidian-play-nice-with-logseq/1185/4
 
