@@ -1,4 +1,4 @@
-- ![image.png](../assets/image_1638600942701_0.png)
+- ![image.png](../assets/image_1638600942701_0.png){:height 385, :width 620}
 - https://github.com/wisehackermonkey/business_card_puzzle
 - simple website that checks the solution to my business card puzzle
 - http://www.orancollins.com:3333/
