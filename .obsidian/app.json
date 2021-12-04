@@ -1,5 +1,7 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "pages",
-  "attachmentFolderPath": ""
+  "attachmentFolderPath": "assets",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }
