@@ -1,0 +1,4 @@
+- text processing  [[Javascript]]
+- https://github.com/wisehackermonkey/text-processor
+- this is my text processor program to make semi manual text processing easier to do
+- https://wisehackermonkey.github.io/text-processor/

@@ -1,3 +1,4 @@
+- [projexts](https://wisehackermonkey.github.io/notes/#/page/projects)
 - [[Software]]
 	- [[Coding]]
 		- [[Python]]
@@ -6,10 +7,14 @@
 			- [[React]]
 			- [[Vanilla]]
 		- [[Arduino]]
+		- [[Design programming languages]]
 	- [[Games]]
 		- [[P5.js]]
 		- [[Unity]]
 - [[Hardware]]
 	- [[Circuit Boards]]
-	-
-	-
+	- [[3d printing]]
+- [[Art]]
+	- [[Photography]]
+	- [[Graphic Design]]
+	- [[Digital Art]]
