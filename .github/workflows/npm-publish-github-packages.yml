@@ -27,6 +27,8 @@ jobs:
         with:
           node-version: 16
           registry-url: https://npm.pkg.github.com/
-      - run: npm export
+      - run: npm install --include=dev
+      - run: npm install -g next
+      - run: npm run build &&  next export
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
