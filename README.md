@@ -1,12 +1,4 @@
-# Orans Projects 
-
-
-
-
-
-
-
-
+# Orans Projects
 ## how i got this repo working
 ### https://discuss.logseq.com/t/making-obsidian-play-nice-with-logseq/1185/4
 ## eden file
@@ -14,8 +6,8 @@
 ### :journal/file-name-format "yyyyMMdd"
 ## obsidian side
 ### Daily Notes > date format > “YYYYMMDD” instead of “YYYY_MM_DD” like this tutorial says
-
-
+-
+# Obsidian sync with logsec git
 # links
 ### https://discuss.logseq.com/t/making-obsidian-play-nice-with-logseq/1185/4
 
