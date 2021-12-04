@@ -3,7 +3,8 @@
 		- [[Python]]
 		- [[Javascript]]
 			- [[P5.js]]
-				-
+			- [[React]]
+			- [[Vanilla]]
 		- [[Arduino]]
 	- [[Games]]
 		- [[P5.js]]
